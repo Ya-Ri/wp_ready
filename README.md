@@ -1,2 +1,2 @@
 # wp_ready
-to lunch within CT/VM
+to lunch : ) within CT/VM
