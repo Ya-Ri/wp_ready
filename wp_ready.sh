@@ -44,7 +44,7 @@ else
 fi
 
 #Webserver, DB and PHP
-apt install apache2 expect mysql-server php php-common php-cli php-mbstring  php-zip  php php-fpm php-mysql php-json php-readline php-xml php-curl php-gd php-json  php-opcache -y
+apt install apache2 expect mysql-server php php-common php-cli php-mbstring  php-zip  php php-fpm php-mysql php-json php-readline php-xml php-curl php-gd php-json libapache2-mod-php7.2 php-opcache -y
 
 #Password Create
 echo "\n${bold}Please choose your MYSQL password: ${normal} \n"
